@@ -58,4 +58,8 @@ public class Product {
 		this.localStok = localStok;
 	}
 	
+	public void addProduct(Product product) {
+		
+	}
+	
 }
